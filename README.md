@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi human
+hubot here!
+I have tacos
